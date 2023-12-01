@@ -18,3 +18,9 @@ Clique no ícone de remover e confirme a exclusão quando a mensagem perguntar s
 
 <h3>Funcionamento do aplicativo</h3>
 O aplicativo tem como funcionalidade adicionar e remover tarefas adicionadas pelo usuário, para que o mesmo possa ter uma organização mais fácil e eficiente.
+
+<h3>Alunos</h3>
+DAVI WENDELL FERREIRA DE LIMA
+RENAN TAVARES CARVALHO
+VINÍCIUS YU SHIMOKOZONO TAKANO
+PEDRO PEIXOTO RABELO
